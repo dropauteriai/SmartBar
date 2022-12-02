@@ -1,4 +1,4 @@
-#What is SmartBar?
+# What is SmartBar?
 SmartBar is a web application which eases work for small restaurants'/bars' employees. Also, it gives an opportunity for owners to track employees' workflow and see the statistics of sales. 
 
 ## Technologies 
